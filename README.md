@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Asiphe (dev2ools)
+# Hi, I'm Asiphe (dev2ools)
 
 **DevOps Engineer** · Cloud & Automation · Web Developer · Gamer
 
@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a DevOps Engineer focused on building reliable, automated, and scalable infrastructure. I work across cloud platforms like **AWS**, containerised deployments with **Docker & Traefik**, and automation pipelines with **n8n** and **Power Automate**. I script in **Python** and **Bash**, and I enjoy shipping full-stack projects in my spare time.
+I'm a DevOps Engineer focused on building reliable, automated, and scalable infrastructure. I work across cloud platforms like **AWS** and **Hetzner**, containerised deployments with **Docker & Traefik**, and automation pipelines with **n8n** and **Power Automate**. I script in **Python** and **Bash**, and I enjoy shipping full-stack projects in my spare time.
 
 ---
 
@@ -14,11 +14,11 @@ I'm a DevOps Engineer focused on building reliable, automated, and scalable infr
 
 | Area | Tools & Technologies |
 |---|---|
-| **Cloud** | AWS (Lambda, API Gateway), EC2, S3 |
+| **Cloud** | AWS (Lambda, API Gateway, EC2, S3), Hetzner |
 | **Containers & Infra** | Docker, Docker Compose, Traefik, Let's Encrypt |
 | **Automation** | n8n, Power Automate, Bash scripting |
 | **Programming** | Python, TypeScript, Bash |
-| **Frontend** | React, Vite, Tailwind CSS, shadcn/ui |
+| **Frontend** | React, Vite, Tailwind CSS |
 | **Databases** | Supabase, RDS |
 | **Security** | JWT auth, HTTPS/TLS, secure workflow design |
 
@@ -26,38 +26,31 @@ I'm a DevOps Engineer focused on building reliable, automated, and scalable infr
 
 ## Projects
 
-### [Docker Update Watcher](https://github.com/dev2ools/docker-update-watcher)
+### [Docker Update Tracker](https://docker-update.dev2ools.co.za/)
 Monitor Docker image versions and receive notifications when updates are available.
-- **Stack:** React · TypeScript · Vite · shadcn/ui · Tailwind
+- **Stack:** React · TypeScript · Vite · Tailwind
 - **Backend:** Supabase (DB + Edge Functions for scheduled checks)
 - Docker-aware version diffing
 
 ---
 
-### [Checkmate](https://github.com/bluewave-labs/checkmate) — Deployment & Docs
-Deployment configs and documentation for Checkmate, an open-source uptime/monitoring tool.
-- Custom CA trust for internal HTTPS (Smallstep)
-- Docker & Traefik integration examples
+### [Ikhayalethu Visionaries](https://ikhayalethu.dev2ools.co.za/)
+"Where Vision Meets Action" — platform bridging vision and execution for Ikhayalethu Visionaries.
+- Full-stack web presence with custom domain and SSL
+- Hosted and managed on personal infrastructure
 
 ---
 
-### Capstone E-Commerce Website *(currently unavailable)*
-End-to-end e-commerce platform with user authentication, real-time database integration, and a secure, scalable architecture.
+### [Budget Buddy](https://budget.dev2ools.co.za)
+Personal budgeting application for tracking income, expenses, and financial goals.
+- Full-stack deployment with custom domain and SSL
 
 ---
 
-### PDF to DOCX Converter *(currently unavailable)*
-Docker-based web app for converting PDFs to DOCX.
-- Flask + `pdf2docx` backend
-- Traefik reverse proxy with SSL (Let's Encrypt)
-- Drag-and-drop interface
-
----
-
-### Self-Hosted GitLab + Traefik *(currently unavailable)*
-GitLab instance running behind Traefik with automated HTTPS.
-- Docker Compose setup with custom SSH port
-- Rails console config for user management
+### [Hubsell](https://hubsell.dev2ools.co.za/)
+Multi-channel selling platform — list once, sell everywhere.
+- Streamlines product listings across multiple sales channels
+- Full-stack deployment with custom domain and SSL
 
 ---
 
@@ -71,6 +64,7 @@ GitLab instance running behind Traefik with automated HTTPS.
 
 ## Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-dev2ools.co.za-black?logo=firefox&logoColor=white)](https://dev2ools.co.za)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asiphe-ndimlana-045184157/)
 
 ---
